@@ -34,7 +34,7 @@
 + به روز‌های اول تشکیل شرکت گوگل فکر کنید، فرض کنید متن‌های چند صد هزار صفحه‌ی وب را جمع آوری کرده‌اید و می‌خواهید بین آن صفحات جستجو کنید. چه راه حلی برای اجرای کوئری چند کلمه‌ای کاربران بین هزاران صفحه متن که از قبل آماده شده است به ذهنتان می‌رسد؟
     چطور می‌شود این جستجو را از مرتبه‌ی یک یا همان (O(1 انجام داد؟
 
-+ یکی از داده‌ساختارهایی که برای پیاده‌سازی موتور جستجو قابل‌استفاده است، Inverted Index می‌باشد. برای آشنایی با این داده ساختار (https://www.geeksforgeeks.org/inverted-index/)[Inverted Index - GeeksforGeeks] را مطالعه کنید؛ سپس برای فهم بهتر ویدئوی (https://www.youtube.com/watch?v=bnP6TsqyF30)[The Inverted Index]  را مشاهده نمایید.
++ یکی از داده‌ساختارهایی که برای پیاده‌سازی موتور جستجو قابل‌استفاده است، Inverted Index می‌باشد. برای آشنایی با این داده ساختار  (https://www.geeksforgeeks.org/inverted-index/)[Inverted Index - GeeksforGeeks]  را مطالعه کنید؛ سپس برای فهم بهتر ویدئوی     (https://www.youtube.com/watch?v=bnP6TsqyF30)[The Inverted Index]   را مشاهده نمایید.
 
 ### گام دوم:
 
@@ -46,8 +46,7 @@
 
 ما فایل‌های اسنادی داریم که حاوی کلمات انگلیسی هستند. 
 
-  (https://star-academy.github.io/codestar-documents/assets/files/the-20-newsgroups-b28960092a8cf8e833bba736d4f3d433.zip  
-)[دانلود اسناد]
+  [دانلود اسناد](https://star-academy.github.io/codestar-documents/assets/files/the-20-newsgroups-b28960092a8cf8e833bba736d4f3d433.zip)
 
 اسناد داده شده را بخوانید و به نحوی ویرایش کنید که فاقد هرگونه علائم نگارشی بوده و کلمات آن با اسپیس از هم جدا شده باشد. (کاراکتر اسپیس جداکننده تمامی کلمات است.)
 
