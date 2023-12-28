@@ -71,7 +71,8 @@
 با استفاده از Query بالا می‌توانیم Documentهایی را پیدا کنیم که حتماً شامل عبارات get و help و همچنین حداقل یکی از عبارات illness و disease باشند و شامل عبارت cough نباشند.
   
 </details>
-### مطالعه بیشتر
+### مطاله بیشتر:
+
 برای آشنایی بیشتر با نحوۀ کار موتور‌های جستجو دیدن ویدئوی [How Google searches one document among Billions of documents quickly](https://www.youtube.com/watch?v=CeGtqouT8eA) توصیه می‌شود.
 
 
