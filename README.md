@@ -12,7 +12,7 @@
 
 <img src="https://s24.picofile.com/file/8456084100/Picture44.png"  width="500"/>
   
-  طراحان پروژه : امیرعلی گلی ، الهام گرفته شده از کداستار
+  طراح پروژه : امیرعلی گلی ، الهام گرفته شده از کداستار
 </div>
 
 <div dir='rtl' align="justify">
