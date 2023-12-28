@@ -72,13 +72,13 @@
   
 </details>
 ### مطالعه بیشتر
-برای آشنایی بیشتر با نحوۀ کار موتور‌های جستجو دیدن ویدئوی (https://www.youtube.com/watch?v=CeGtqouT8eA)[How Google searches one document among Billions of documents quickly] توصیه می‌شود.
+برای آشنایی بیشتر با نحوۀ کار موتور‌های جستجو دیدن ویدئوی [How Google searches one document among Billions of documents quickly](https://www.youtube.com/watch?v=CeGtqouT8eA) توصیه می‌شود.
 
 
 
 ### بخش امتیازی:
 +	در صورت نبود یک کلمه در تمام متون، کلمات مشابه با یک اختلاف( تغییر در حروف، کم و زیاد شدن تعداد حروف)  را نشان داده و سپس سرچ کند. ( امتیاز بالا )
-+	استفاده از الستیک سرچ () برای ذخیره سازی اسناد و بازیابی آن‌ها با استفاده از queryهای آن (امتیازی متوسط)
++	استفاده از الستیک سرچ [Elasticsearch](https://github.com/Talkademy/Backend-Internship/tree/main/PHASE-10-Elasticsearch) برای ذخیره سازی اسناد و بازیابی آن‌ها با استفاده از queryهای آن (امتیازی متوسط)
 +	رابط کاربری گرافیکی ( امتیازی متوسط )
 
 
